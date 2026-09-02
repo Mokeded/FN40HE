@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "FN40_Project")(type "KiCad")(uri "${KIPRJMOD}/FN40_Project.pretty")(options "")(descr "Canonical footprints for the synchronized FN40-HE60 handoff"))
+)

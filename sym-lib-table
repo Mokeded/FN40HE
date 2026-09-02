@@ -1,0 +1,13 @@
+(sym_lib_table
+  (lib (name "HE60")(type "KiCad")(uri "${KIPRJMOD}/lib/HE60.kicad_sym")(options "")(descr "HE60 project symbols"))
+  (lib (name "FN40_Local")(type "KiCad")(uri "${KIPRJMOD}/lib/FN40_Local.kicad_sym")(options "")(descr "FN40 synchronized legacy symbols"))
+  (lib (name "power")(type "KiCad")(uri "${KIPRJMOD}/lib/power.kicad_sym")(options "")(descr "Vendored KiCad 10 symbol library"))
+  (lib (name "Device")(type "KiCad")(uri "${KIPRJMOD}/lib/Device.kicad_sym")(options "")(descr "Vendored KiCad 10 symbol library"))
+  (lib (name "4xxx")(type "KiCad")(uri "${KIPRJMOD}/lib/4xxx.kicad_sym")(options "")(descr "Vendored KiCad 10 symbol library"))
+  (lib (name "Regulator_Linear")(type "KiCad")(uri "${KIPRJMOD}/lib/Regulator_Linear.kicad_sym")(options "")(descr "Vendored KiCad 10 symbol library"))
+  (lib (name "Switch")(type "KiCad")(uri "${KIPRJMOD}/lib/Switch.kicad_sym")(options "")(descr "Vendored KiCad 10 symbol library"))
+  (lib (name "Power_Protection")(type "KiCad")(uri "${KIPRJMOD}/lib/Power_Protection.kicad_sym")(options "")(descr "Vendored KiCad 10 symbol library"))
+  (lib (name "Connector_Generic_MountingPin")(type "KiCad")(uri "${KIPRJMOD}/lib/Connector_Generic_MountingPin.kicad_sym")(options "")(descr "Vendored KiCad 10 symbol library"))
+  (lib (name "Mechanical")(type "KiCad")(uri "${KIPRJMOD}/lib/Mechanical.kicad_sym")(options "")(descr "Vendored KiCad 10 symbol library"))
+  (lib (name "Connector")(type "KiCad")(uri "${KIPRJMOD}/lib/Connector.kicad_sym")(options "")(descr "Vendored KiCad 10 symbol library"))
+)

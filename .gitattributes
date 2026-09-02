@@ -1,0 +1,19 @@
+# Keep KiCad and source files LF so the project diffs cleanly across Windows/macOS/Linux
+* text=auto eol=lf
+
+# Binary / generated - never touch
+*.step   binary
+*.stp    binary
+*.zip    binary
+*.bin    binary
+*.elf    binary
+*.hex    binary
+*.drl    binary
+*.gbr    binary
+*.gbl    binary
+*.gtl    binary
+*.gbs    binary
+*.gts    binary
+*.gbp    binary
+*.gtp    binary
+*.gm1    binary
